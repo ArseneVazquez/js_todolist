@@ -8,6 +8,9 @@
   },
   "author": "irumva arsene",
   "license": "ISC",
+  "engines": {
+  "node": "20.17.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
